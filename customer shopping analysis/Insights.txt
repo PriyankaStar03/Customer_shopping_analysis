@@ -1,0 +1,9 @@
+INSIGHTS
+========
+
+1.The Dashbord tells which payment method is more use.
+2.Almost Old age group people purchase 50% of total price.
+3."Mall of Instanbul" has the hightest sales.
+4.Clothing has highrst sales among all the category, and Souvenir has the lowest sales, so we should focus on the Souvenir for incresing sales.
+5.According to the dashborad, maximum sales done in the month of January. and least in the month of November.
+6.People purchase item maximum in first quater of the year.
